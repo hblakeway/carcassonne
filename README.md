@@ -25,7 +25,6 @@ You can now use the API in other projects.
 
 ## API
 
-
 Code example for a game with two players
 
     import random  
